@@ -1,0 +1,5 @@
+.crispy-forms/
+.vscode/
+__pycache__/
+*.sqlite3
+*migrations/*.py
